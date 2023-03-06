@@ -7,14 +7,14 @@ echo $UID
 printenv | grep LANG
 
 #variáveis
-string='hello world'
-echo $string
-export string
+stringHello='hello world'
+echo $stringHello
+export stringHello
 
 echo 'changing to bash to show export'
-bash | echo $string || exit
+bash | echo $stringHello || exit
 echo 'back to '$SHELL
 
-unset string
-echo 'removed string variable'
-echo $string
+unset stringHello
+echo 'removed stringHello variable'
+echo $stringHello
