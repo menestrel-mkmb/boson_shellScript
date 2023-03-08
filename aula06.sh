@@ -9,4 +9,4 @@ ls -laF
 echo -n 'o usuário logado é '
 whoami
 
-sudo su | whoami
+echo "whoami" | sudo su
