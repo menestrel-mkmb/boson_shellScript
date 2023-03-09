@@ -1,0 +1,16 @@
+total 40
+drwxr-xr-x 1 minstrel minstrel  186 mar  9 09:45 ./
+drwxr-xr-x 1 minstrel      100   72 mar  3 11:43 ../
+-rwxr-xr-x 1 minstrel minstrel   32 mar  3 19:39 aula01.sh*
+-rwxr-xr-x 1 minstrel minstrel  310 mar  7 18:43 aula02.sh*
+-rwxr-xr-x 1 minstrel minstrel 1081 mar  6 15:37 aula03.sh*
+-rwxr-xr-x 1 minstrel minstrel  262 mar  7 12:30 aula04.sh*
+-rw-r--r-- 1 minstrel minstrel    5 mar  7 18:38 aula05
+-rwxr-xr-x 1 minstrel minstrel  180 mar  8 12:15 aula06.sh*
+-rw-r--r-- 1 minstrel minstrel    5 mar  8 12:53 aula07
+-rwxr-xr-x 1 minstrel minstrel  480 mar  8 12:49 aula08.sh*
+-rwxr-xr-x 1 minstrel minstrel  267 mar  9 10:36 aula09.sh*
+-rw-r--r-- 1 minstrel minstrel   12 mar  3 20:35 exit
+drwxr-xr-x 1 minstrel minstrel  182 mar  9 09:33 .git/
+drwxr-xr-x 1 minstrel minstrel  140 mar  9 10:19 testFolder/
+qui 09 mar 2023 10:37:02 -03
