@@ -1,3 +1,5 @@
+#!/usr/bin/zsh
+
 alias mo='more'
 alias ll='ls -l'
 

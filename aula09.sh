@@ -1,3 +1,5 @@
+#!/usr/bin/zsh
+
 echo 'Inserindo ao arquivo'
 ls -laF  > testFolder/cat_aula09.txt
 cat testFolder/cat_aula09.txt

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 arrayFrutas=(laranja morango acerola abacaxi) # [0-3]
 
 echo ${arrayFrutas[*]} # all
